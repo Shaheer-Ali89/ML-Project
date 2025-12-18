@@ -24,7 +24,9 @@ The FashionMNIST dataset consists of 70,000 grayscale images of fashion items ac
 
 ## Results & Analysis
 - **SVM Accuracy:** ~21%  
-- **CNN Accuracy:** ~91.7%  
+- **CNN Accuracy:** ~91.7%
+<img width="771" height="501" alt="image" src="https://github.com/user-attachments/assets/a0328c9d-c9c1-43f3-b855-0c16214a3052" />
+
 
 Key observations:  
 - CNN significantly outperformed classical models  
